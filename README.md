@@ -1,1 +1,1 @@
-"To jest WERSJA A pierwszego zdania.
+#cwiczenie3
